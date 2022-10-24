@@ -5,7 +5,7 @@
 ### Projects 
 
 [Company Sales Data](/sample_page)
-<br></br>
+<br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 
 ---
