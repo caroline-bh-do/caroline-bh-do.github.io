@@ -5,7 +5,8 @@
 ### Category Name 1 
 
 [Company Sales Data](/sample_page)
-(<img src= "images/combinedgraphs1.png?raw=true"/>)
+<block></block>
+<img src= "images/combinedgraphs1.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
