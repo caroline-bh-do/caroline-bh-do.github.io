@@ -10,7 +10,7 @@
 
 ---
 [Geoprocessing Model](/pdf/sample_presentation.pdf)
-<img src=""/>
+<img src="images/geoprocessing1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
