@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Company Sales Data](/sample_page)
+<img src=![image](https://user-images.githubusercontent.com/60712084/197475722-b9eaaf80-2e01-406e-82bd-7276041cfade.png)/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
