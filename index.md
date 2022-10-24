@@ -13,8 +13,8 @@
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Titanic](https://public.tableau.com/app/profile/caroline.do2865/)
+<img src="images/titanic?raw=true"/>
 
 ---
 
