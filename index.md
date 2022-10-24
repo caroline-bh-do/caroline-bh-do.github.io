@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
 [Company Sales Data](/sample_page)
 <br></br>
