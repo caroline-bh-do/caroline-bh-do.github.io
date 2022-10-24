@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Company Sales Data](/sample_page)
-[image](https://user-images.githubusercontent.com/60712084/197475722-b9eaaf80-2e01-406e-82bd-7276041cfade.png)
+<img src= "comparisongraph.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
