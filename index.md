@@ -9,7 +9,7 @@
 <img src= "images/combinedgraphs1.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Geoprocessing Model](/pdf/sample_presentation.pdf)
 <img src=""/>
 
 ---
