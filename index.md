@@ -13,8 +13,8 @@
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
-[Titanic](https://public.tableau.com/app/profile/caroline.do2865/)
-<img src="images/titanic?raw=true"/>
+[Global Sales](https://public.tableau.com/app/profile/caroline.do2865/)
+<img src="images/titanic.png?raw=true"/>
 
 ---
 
