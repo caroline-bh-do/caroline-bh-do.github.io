@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Company Sales Data](/sample_page)
-<img src= "[C:/Users/carol/Documents/professional/portfolio/Github profile picture/images/combinedgraphs1.png](https://github.com/caroline-bh-do/caroline-bh-do.github.io/blob/main/images/combinedgraphs1.png?raw=true)"/>
+<img src= "([C:/Users/carol/Documents/professional/portfolio/Github profile picture/images/combinedgraphs1.png](https://github.com/caroline-bh-do/caroline-bh-do.github.io/blob/main/images/combinedgraphs1.png?raw=true)"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
