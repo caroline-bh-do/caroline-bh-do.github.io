@@ -4,7 +4,7 @@
 
 ### Projects 
 
-[Predict Survival on the Titanic Data](/sample_page)
+[Predict Survival on the Titanic Data](sample_page.md)
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
