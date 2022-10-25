@@ -8,7 +8,7 @@
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
-[Company Sales Presentation] (/pdf/sample_presentation.pdf)
+[Company Sales Presentation](/pdf/sample_presentation.pdf) 
 ---
 [Geoprocessing Model](/pdf/sample_presentation.pdf)
 <img src="images/geoprocessing1.png?raw=true"/>
