@@ -4,6 +4,11 @@
 
 ### Projects 
 
+[Predict Survival on the Titanic Data](/sample_page)
+<br>
+<img src= "images/combinedgraphs1.png?raw=true"/>
+---
+
 [Company Sales Data](/sample_page)
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
