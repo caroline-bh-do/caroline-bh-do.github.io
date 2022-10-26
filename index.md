@@ -6,7 +6,7 @@
 
 [Predict Survival on the Titanic Data](sample_page.md)
 <br>
-<img src= "images/combinedgraphs1.png?raw=true"/>
+<img src= "images/dashboard.png?raw=true"/>
 ---
 
 [Company Sales Data](/sample_page)
